@@ -1,0 +1,22 @@
+* {
+    font-family: "JetBrainsMono Nerd Font", "FontAwesome", sans-serif;
+    font-size: 14px;
+}
+
+#custom-wofi, #custom-firefox, #custom-terminal, #custom-files, #workspaces, #custom-logout, #custom-reboot, #custom-shutdown{
+    padding: 5px 10px;
+    background: #282c34;
+    color: #abb2bf;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+#custom-wofi:hover, #custom-firefox:hover, #custom-terminal:hover, #custom-files:hover, #hworkspaces:hover, #custom-logout:hover, #custom-reboot:hover, #custom-shutdown:hover{
+    background: #3e4452;
+    color: #ffffff;
+}
+
+#clock {
+    font-weight: bold;
+    padding: 5px 15px;
+}
